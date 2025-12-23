@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://i.postimg.cc/ZnDK6JVd/Logo.png" alt="Logo App" width="200" height="200" style="border-radius:20%">
+  <img src="https://i.postimg.cc/ZnDK6JVd/Logo.png" alt="Logo App" width="200" height="300" style="border-radius: 35px;">
 
-  # AKIYAMA APP
+  # WAPP
   
   **Tu puerta de entrada al anime. Gratis. Sin interrupciones.**
 
@@ -53,7 +53,7 @@ Esto significa que la aplicación es funcional, pero podrías encontrar pequeño
 ### 🧐 ¿Encontraste un error?
 Tu ayuda es vital para mejorar. Si encuentras un bug o tienes una sugerencia, por favor abre un **Issue** en este repositorio explicándonos qué sucedió.
 
-[👉 Reportar un error aquí](https://github.com/wawoide1/Wapp/issues)
+[👉 Reportar un error aquí](https://github.com/wawoide1/Wapp/issues/new)
 
 ---
 
