@@ -7,12 +7,12 @@
   **Tu puerta de entrada al anime. Gratis. Sin interrupciones.**
 
   ![Estado](https://img.shields.io/badge/Estado-BETA-orange?style=for-the-badge)
-  ![Plataforma](https://img.shields.io/badge/Android-5.0%2B-green?style=for-the-badge&logo=android)
+  ![Plataforma](https://img.shields.io/badge/Android-10%2B-green?style=for-the-badge&logo=android)
   ![Licencia](https://img.shields.io/badge/Sin_Anuncios-100%25-blue?style=for-the-badge)
 
   <br>
 
-  [⬇️ DESCARGAR ÚLTIMA VERSIÓN ⬇️]()
+  [⬇︎ DESCARGAR ÚLTIMA VERSIÓN ⬇︎]()
   
 </div>
 
