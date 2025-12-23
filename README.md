@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.postimg.cc/3wVwy8fw/image-(1).png" alt="Logo App" width="200" height="500">
+  <img src="https://i.postimg.cc/kGDwTyvd/WAPP.png" alt="Logo App" width="200" height="500">
 
   # WAPP
   
