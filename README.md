@@ -20,7 +20,7 @@
 
 ## 🚀 ¿Qué es W?
 
-**W** es una aplicación de streaming de anime para Android diseñada por y para fans. Nuestro objetivo principal es ofrecer una experiencia limpia, fluida y **totalmente libre de anuncios**.
+**W** es una aplicación de streaming de anime para Android diseñada por y para fans. Su objetivo principal es ofrecer una experiencia limpia, fluida y **totalmente libre de anuncios**.
 
 Esta aplicación funciona gracias al contenido provisto por **[Animeav1.com](https://animeav1.com)**, trayendo su inmenso catálogo directamente a la comodidad de una interfaz nativa y moderna.
 
@@ -37,10 +37,10 @@ Descarga tus episodios favoritos directamente en la app y míralos offline cuand
 Mantén tu progreso al día. Vincula tu cuenta de **AniList** para actualizar automáticamente los episodios que ves y acceder a tu lista de seguimiento desde cualquier dispositivo.
 
 ###  Favoritos y Gestión
-Guarda los animes que amas. Nuestra sección de favoritos te permite organizar tu biblioteca personal para tener acceso rápido a lo que estás viendo.
+Sección de favoritos que te permite organizar tu biblioteca personal para tener acceso rápido a lo que estás viendo.
 
 ###  Actualizaciones In-App
-W cuenta con un sistema inteligente que te avisará y permitirá descargar la nueva versión directamente desde la aplicación.
+W permite descargar la nueva versión directamente desde la aplicación sin tener que bajar un apk nuevo cada vez que se actualice.
 
 ---
 
