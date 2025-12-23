@@ -26,20 +26,20 @@ Esta aplicación funciona gracias al contenido provisto por **[Animeav1.com](htt
 
 ---
 
-## ✨ Características Principales
+##  Características Principales
 
 Disfruta de una experiencia premium sin pagar nada:
 
-### 📥 Descargas Integradas
+###  Descargas Integradas
 Descarga tus episodios favoritos directamente en la app y míralos offline cuando quieras.
 
-### 🔄 Sincronización con AniList
+###  Sincronización con AniList
 Mantén tu progreso al día. Vincula tu cuenta de **AniList** para actualizar automáticamente los episodios que ves y acceder a tu lista de seguimiento desde cualquier dispositivo.
 
-### ❤ Favoritos y Gestión
+###  Favoritos y Gestión
 Guarda los animes que amas. Nuestra sección de favoritos te permite organizar tu biblioteca personal para tener acceso rápido a lo que estás viendo.
 
-### 📲 Actualizaciones In-App
+###  Actualizaciones In-App
 W cuenta con un sistema inteligente que te avisará y permitirá descargar la nueva versión directamente desde la aplicación.
 
 ---
@@ -50,10 +50,10 @@ Actualmente, **W se encuentra en fase BETA**.
 
 Esto significa que la aplicación es funcional, pero podrías encontrar pequeños errores (bugs) o comportamientos inesperados mientras pulimos la experiencia final.
 
-### 🐛 ¿Encontraste un error?
+### 🧐 ¿Encontraste un error?
 Tu ayuda es vital para mejorar. Si encuentras un bug o tienes una sugerencia, por favor abre un **Issue** en este repositorio explicándonos qué sucedió.
 
-[👉 Reportar un error aquí]()
+[👉 Reportar un error aquí](https://github.com/wawoide1/Wapp/issues)
 
 ---
 
