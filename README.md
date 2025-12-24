@@ -12,7 +12,7 @@
 
   <br>
 
-  [⬇︎ DESCARGAR ÚLTIMA VERSIÓN ⬇︎]()
+  [⬇︎ DESCARGAR ÚLTIMA VERSIÓN ⬇︎](https://github.com/wawoide1/Wapp/releases/download/v1.0/Wapp_v1.0.apk)
   
 </div>
 
