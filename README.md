@@ -18,9 +18,9 @@
 
 ---
 
-## 🚀 ¿Qué es W?
+## 🚀 ¿Qué es Wapp?
 
-**W** es una aplicación de streaming de anime para Android diseñada por y para fans. Su objetivo principal es ofrecer una experiencia limpia, fluida y **totalmente libre de anuncios**.
+**Wapp** es una aplicación de streaming de anime para Android diseñada por y para fans. Su objetivo principal es ofrecer una experiencia limpia, fluida y **totalmente libre de anuncios**.
 
 Esta aplicación funciona gracias al contenido provisto por **[Animeav1.com](https://animeav1.com)**, trayendo su inmenso catálogo directamente a la comodidad de una interfaz nativa y moderna.
 
